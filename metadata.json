@@ -1,0 +1,6 @@
+{
+  "name": "F1 Ultimate",
+  "description": "A premium Formula 1 companion app featuring live timing simulation, standing charts, circuit info, favorites, and Gemini-powered F1 news.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
